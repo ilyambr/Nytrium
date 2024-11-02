@@ -1,5 +1,7 @@
 
-**Nytrium** is an open-source dual-boot gaming launcher for Linux users. It simplifies managing and playing Windows-only games by setting up a lightweight Windows partition for gaming while keeping full control from Linux. With Nytrium, you can easily switch between operating systems, manage game installations, and customize settings—all from a single app.
+**Nytrium**
+
+ is an open-source dual-boot gaming launcher for Linux users. It simplifies managing and playing Windows-only games by setting up a lightweight Windows partition for gaming while keeping full control from Linux. With Nytrium, you can easily switch between operating systems, manage game installations, and customize settings—all from a single app.
 
 ---
 
