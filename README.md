@@ -1,7 +1,6 @@
+# Nytrium
 
-**Nytrium**
-
- is an open-source dual-boot gaming launcher for Linux users. It simplifies managing and playing Windows-only games by setting up a lightweight Windows partition for gaming while keeping full control from Linux. With Nytrium, you can easily switch between operating systems, manage game installations, and customize settings—all from a single app.
+**Nytrium** is an open-source dual-boot gaming launcher for Linux users. It simplifies managing and playing Windows-only games by setting up a lightweight Windows partition for gaming while keeping full control from Linux. With Nytrium, you can easily switch between operating systems, manage game installations, and customize settings—all from a single app.
 
 ---
 
@@ -22,7 +21,7 @@
 ### Installation
 To follow along with Nytrium's development or to start contributing, clone the repository:
 
-(This is currently in the works but it should look like this)
+(This is currently in the works but it should look like this.)
 
 ```bash
 git clone https://github.com/ilyambr/Nytrium.git
@@ -32,3 +31,27 @@ cd Nytrium
 Additional setup instructions will be available soon.
 
 ---
+
+## Roadmap
+- **Partition Automation**: Simplify setup of Windows partitions for gaming.
+- **Game Library Sync**: Integrate Steam and Epic Games APIs to fetch games and metadata.
+- **Windows Companion App**: Build a limited-access app to control settings and return to Linux.
+
+---
+
+## Contributing
+Contributions are welcome! To get started:
+1. Fork the repository
+2. Create a new branch for your feature or bugfix
+3. Submit a pull request
+
+Check the **Issues** tab for features to work on and open discussions.
+
+---
+
+## License
+This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+
+---
+
+This README gives users a clear idea of what Nytrium is, the features they can expect, and how they can get involved. You can update the roadmap section as you progress! Let me know if you want to add anything else.
